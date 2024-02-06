@@ -28,7 +28,3 @@ Serves as the driver for the calculator, presenting a menu to the user and handl
 - The user selects an operation to perform.
 - The program then prompts the user for the necessary inputs and displays the result.
 
-## Usage
-
-To compile the project, navigate to the directory containing the source files and run:
-
